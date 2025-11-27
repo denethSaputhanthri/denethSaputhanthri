@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Core Competencies & Tech Stack
+##  Core Competencies & Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -25,14 +25,14 @@
 
 ---
 
-## 💻 Current Focus
-> 💡 "Writing code that future me (and others) hopefully understands."
+##  Current Focus
+>  "Writing code that future me (and others) hopefully understands."
 >
-> 🎯 **Full-stack journey in progress:** Deepening skills in **React** and **clean architecture** to build robust, user-friendly applications.
+>  **Full-stack journey in progress:** Deepening skills in **React** and **clean architecture** to build robust, user-friendly applications.
 
 ---
 
-## 📈 GitHub Metrics: Data Visualization
+##  GitHub Metrics: Data Visualization
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=denethSaputhanthri&theme=tokyonight&hide_border=false&count_private=true&show_icons=true&cache_bust=1" alt="Deneth's GitHub Stats" style="width: 100%; max-width: 500px;"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🏆 Achievements & Contributions
+##  Achievements & Contributions
 
 <div align="center">
 
@@ -57,9 +57,5 @@
 
 ### **Top Contributed Repositories**
 <img src="https://github-contributor-stats.vercel.app/api?username=denethSaputhanthri&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-
 </div>
 
-<div align="center">
-  <p>Visitor Count: <img src="https://visitcount.itsvg.in/api?id=denethSaputhanthri&icon=5&color=38BDF8" alt="Visitor Count" /></p>
-</div>
