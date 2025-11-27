@@ -35,12 +35,13 @@
 ## 📈 GitHub Metrics: Data Visualization
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denethSaputhanthri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_bust=1" alt="Deneth's GitHub Stats" style="width: 100%; max-width: 500px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=denethSaputhanthri&theme=tokyonight&hide_border=false&count_private=true&show_icons=true&cache_bust=1" alt="Deneth's GitHub Stats" style="width: 100%; max-width: 500px;"/>
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=denethSaputhanthri&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="width: 100%; max-width: 500px;"/>
 
 <br/>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denethSaputhanthri&theme=tokyonight&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" style="width: 100%; max-width: 500px;"/>
 </div>
