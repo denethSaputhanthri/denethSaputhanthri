@@ -27,20 +27,10 @@
 </div>
 
 ---
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=denethSaputhanthri&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&cache_bust=1" alt="GitHub Stats" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=denethSaputhanthri&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=denethSaputhanthri&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&cache_bust=1" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=denethSaputhanthri&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
-
 ---
 
 <div align="center">
