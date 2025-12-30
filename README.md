@@ -25,14 +25,6 @@
   </p>
 
 </div>
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denethSaputhanthri&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&cache_bust=1" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=denethSaputhanthri&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
-</div>
----
-
 <div align="center">
   <h2>🛠️ Tech Stack & Expertise</h2>
   
@@ -58,6 +50,13 @@
 </div>
 
 <br/>
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denethSaputhanthri&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" height="180" />
+  
+  <img src="https://streak-stats.demolab.com/?user=denethSaputhanthri&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+</div>
+---
 
 <div align="center">
   <h2>🏆 Trophies</h2>
@@ -86,6 +85,4 @@
   </p>
   
   <br />
-  
-  <img src="https://komarev.com/ghpvc/?username=denethSaputhanthri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
