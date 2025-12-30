@@ -1,61 +1,42 @@
+<div align="center"><!-- Animated Banner with Gradient --><div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 20px; margin-bottom: 2rem;"> <h1 style="color: white; font-size: 3.5rem; margin-bottom: 0.5rem;"> Deneth Saputhanthari </h1> <!-- Animated Typing Effect --> <div style="height: 80px; display: flex; align-items: center; justify-content: center;"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=🚀+Full-Stack+Development+Architect;⚡+Building+Microservices+with+Java+%26+Spring;🎨+Modern+UI+Design+with+React+%26+Next.js;📊+Optimizing+for+Scalability+%26+Performance;🔧+DevOps+%26+Cloud+Native+Solutions" alt="Typing SVG" /> </div> <!-- Animated Badges --> <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 1.5rem; flex-wrap: wrap;"> <a href="https://discord.gg/deneth_saputhanthri1"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" /> </a> <a href="https://www.facebook.com/share/19HeVj55Mi/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" /> </a> <a href="https://www.instagram.com/deneth_nadeeja"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" /> </a> <a href="https://www.linkedin.com/in/denethnadeeja"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" /> </a> <a href="mailto:deneth@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" /> </a> </div> </div><!-- Stats Cards --><div style="display: flex; gap: 1rem; justify-content: center; margin: 2rem 0; flex-wrap: wrap;"> <img src="https://github-readme-stats.vercel.app/api?username=denethSaputhanthri&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&cache_bust=1" alt="GitHub Stats" style="width: 100%; max-width: 400px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
+<img src="https://streak-stats.demolab.com/?user=denethSaputhanthri&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%; max-width: 400px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
+
+</div></div>
+🛠️ Tech Stack & Expertise
 <div align="center">
+Frontend Development
+<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1rem 0;"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,materialui,redux&theme=dark&perline=10" /> </div>
+Backend Development
+<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1rem 0;"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi,mysql,mongodb,postgres,redis&theme=dark&perline=10" /> </div>
+DevOps & Tools
+<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin: 1rem 0;"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,nginx,postman,figma,vscode,idea&theme=dark&perline=10" /> </div></div>
+📈 Current Focus & Goals
+🔭 Currently Working On: Enterprise microservices architecture with Spring Boot & React
 
-#  Deneth Saputhanthari 
+🌱 Learning: Advanced Kubernetes, GraphQL, and System Design Patterns
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=10b981&center=true&vCenter=true&width=600&lines=Full-Stack+Development+Architect+;Building+Microservices+with+Java+&+Spring;Mastering+Modern+UI+Design+with+React;Optimizing+Code+for+Scalability+%26+Performance+⚙️" alt="Typing SVG" />
-</a>
-<p>
-  <a href="https://discord.gg/deneth_saputhanthri1"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://facebook.com/https://www.facebook.com/share/19HeVj55Mi/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://instagram.com/https://www.instagram.com/deneth_nadeeja?igsh=MW55bXBscnRsbmpwNA%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="www.linkedin.com/in/denethnadeeja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-</div>
+👯 Looking to Collaborate On: Open-source full-stack projects
 
----
+💬 Ask me about: Java backend optimization & React performance tuning
 
-##  Core Competencies & Tech Stack
+⚡ Fun fact: I believe clean code is a form of art
 
+<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 1.5rem; border-radius: 15px; margin: 2rem 0;"> <h3 style="color: white; text-align: center; margin-bottom: 1rem;">🎯 2024 Goals</h3> <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 1rem;"> <div style="background: white; padding: 1rem; border-radius: 10px; text-align: center; min-width: 200px;"> <h4>🚀 Master Kubernetes</h4> <p>Advanced container orchestration</p> </div> <div style="background: white; padding: 1rem; border-radius: 10px; text-align: center; min-width: 200px;"> <h4>📚 Contribute to OSS</h4> <p>Open-source contributions</p> </div> <div style="background: white; padding: 1rem; border-radius: 10px; text-align: center; min-width: 200px;"> <h4>🏆 Get AWS Certified</h4> <p>Cloud architecture expertise</p> </div> </div> </div>
+📊 GitHub Analytics
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongo,express,react,js,html,css,tailwind,bootstrap,figma&perline=6&theme=dark" />
-  </a>
-</div>
+Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denethSaputhanthri&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" style="border-radius: 15px; margin: 1rem 0;" />
 
----
-
-##  Current Focus
->  "Writing code that future me (and others) hopefully understands."
->
->  **Full-stack journey in progress:** Deepening skills in **React** and **clean architecture** to build robust, user-friendly applications.
-
----
-
-##  GitHub Metrics: Data Visualization
-
+Contribution Graph
+<div style="width: 100%; max-width: 800px; margin: 0 auto;"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=denethSaputhanthri&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=6e40c9&point=6e40c9&line=6e40c9&title_color=FFFFFF" alt="Contribution Graph" style="border-radius: 15px;" /> </div></div>
+🏆 Achievements & Recognition
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denethSaputhanthri&theme=tokyonight&hide_border=false&count_private=true&show_icons=true&cache_bust=1" alt="Deneth's GitHub Stats" style="width: 100%; max-width: 500px;"/>
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=denethSaputhanthri&theme=tokyonight&hide_border=false" alt="GitHub Streak" style="width: 100%; max-width: 500px;"/>
-
-<br/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denethSaputhanthri&theme=tokyonight&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" style="width: 100%; max-width: 500px;"/>
-</div>
-
----
-
-##  Achievements & Contributions
-
-<div align="center">
-
-### **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=denethSaputhanthri&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-### **Top Contributed Repositories**
-<img src="https://github-contributor-stats.vercel.app/api?username=denethSaputhanthri&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
+GitHub Trophies
+<div style="display: flex; justify-content: center; margin: 2rem 0;"> <img src="https://github-profile-trophy.vercel.app/?username=denethSaputhanthri&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" style="border-radius: 15px;" /> </div>
+Wakatime Stats (Optional - Add your username)
+<!-- Add your Wakatime stats if you use it --><!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical&layout=compact&hide_border=true" /> --></div>
+📁 Featured Projects
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;"><div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 1.5rem; border-radius: 15px; color: white;"> <h3>🏗️ Microservice Architecture</h3> <p>Spring Boot + React full-stack solution</p> <div style="display: flex; gap: 0.5rem; margin-top: 1rem;"> <span style="background: rgba(255,255,255,0.2); padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem;">Java</span> <span style="background: rgba(255,255,255,0.2); padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem;">Spring</span> <span style="background: rgba(255,255,255,0.2); padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem;">React</span> </div> </div><div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 1.5rem; border-radius: 15px; color: white;"> <h3>🎨 Modern UI Dashboard</h3> <p>React + Tailwind CSS admin panel</p> <div style="display: flex; gap: 0.5rem; margin-top: 1rem;"> <span style="background: rgba(255,255,255,0.2); padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem;">React</span> <span style="background: rgba(255,255,255,0.2); padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem;">Tailwind</span> <span style="background: rgba(255,255,255,0.2); padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem;">TypeScript</span> </div> </div><div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 1.5rem; border-radius: 15px; color: white;"> <h3>⚡ Performance Optimizer</h3> <p>Java backend performance tuning tool</p> <div style="display: flex; gap: 0.5rem; margin-top: 1rem;"> <span style="background: rgba(255,255,255,0.2); padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem;">Java</span> <span style="background: rgba(255,255,255,0.2); padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem;">JVM</span> <span style="background: rgba(255,255,255,0.2); padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.8rem;">Optimization</span> </div> </div></div>
+🤝 Let's Connect
+<div align="center" style="margin: 2rem 0;"><p style="font-size: 1.2rem; margin-bottom: 1.5rem;"> I'm always open to discussing new opportunities, collaborations, or just having a tech chat! </p><!-- Social Links with Icons --><div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;"> <!-- LinkedIn --> <a href="https://www.linkedin.com/in/denethnadeeja" style="text-decoration: none;"> <div style="display: flex; align-items: center; gap: 0.5rem; padding: 0.8rem 1.5rem; background: #0A66C2; color: white; border-radius: 10px; transition: transform 0.3s;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="24" height="24" /> <span>LinkedIn</span> </div> </a> <!-- GitHub --> <a href="https://github.com/denethSaputhanthri" style="text-decoration: none;"> <div style="display: flex; align-items: center; gap: 0.5rem; padding: 0.8rem 1.5rem; background: #333; color: white; border-radius: 10px; transition: transform 0.3s;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="24" height="24" /> <span>GitHub</span> </div> </a> <!-- Email --> <a href="mailto:deneth@example.com" style="text-decoration: none;"> <div style="display: flex; align-items: center; gap: 0.5rem; padding: 0.8rem 1.5rem; background: #D14836; color: white; border-radius: 10px; transition: transform 0.3s;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="24" height="24" /> <span>Email</span> </div> </a> <!-- Portfolio --> <a href="https://your-portfolio.com" style="text-decoration: none;"> <div style="display: flex; align-items: center; gap: 0.5rem; padding: 0.8rem 1.5rem; background: #6e40c9; color: white; border-radius: 10px; transition: transform 0.3s;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/portfolio-dot-io.svg" width="24" height="24" /> <span>Portfolio</span> </div> </a></div><!-- Visitor Counter --><p style="margin-top: 2rem;"> <img src="https://komarev.com/ghpvc/?username=denethSaputhanthri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> </p></div>
+<div align="center" style="margin-top: 2rem; padding: 1rem; background: linear-gradient(135deg, #667eea20 0%, #764ba220 100%); border-radius: 15px;"> <p style="font-size: 0.9rem; color: #666;"> "Code is like humor. When you have to explain it, it's bad." – Cory House </p> <p style="font-size: 0.8rem; color: #888;"> Last Updated: December 2024 </p> </div>
