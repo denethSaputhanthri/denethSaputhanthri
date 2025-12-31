@@ -42,28 +42,19 @@
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denethSaputhanthri&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" />
-  
   <br/><br/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=denethSaputhanthri&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=6e40c9&point=6e40c9&line=6e40c9&title_color=FFFFFF" alt="Contribution Graph" />
 </div>
 
 <br/>
----
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denethSaputhanthri&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" height="180" />
-  
+ 
   <img src="https://streak-stats.demolab.com/?user=denethSaputhanthri&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
----
 
-<div align="center">
-  <h2>🏆 Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=denethSaputhanthri&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
----
 
 <div align="center">
   <h2>🤝 Let's Connect</h2>
