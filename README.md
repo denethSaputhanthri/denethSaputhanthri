@@ -44,7 +44,7 @@
   <h2>📊 GitHub Analytics</h2>
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denethSaputhanthri&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=6e40c9&point=6e40c9&line=6e40c9&title_color=FFFFFF" alt="Contribution Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=denethSaputhanthri&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=github-dark" width="100%"/>
 </div>
 
 <br/>
