@@ -42,7 +42,9 @@
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-  <br/><br/>
+  <br/>
+  <a href="https://app.daily.dev/denethsaputhanthri"><img src="https://api.daily.dev/devcards/v2/UVyTGaDHnGtukrgaacDBs.png?r=tw3&type=wide" width="652" alt="Deneth Saputhanthri's Dev Card"/></a>
+  <br/>
   
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denethSaputhanthri&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=github-dark" width="100%"/>
 </div>
