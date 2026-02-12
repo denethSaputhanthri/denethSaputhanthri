@@ -53,7 +53,6 @@
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=denethSaputhanthri&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
 
