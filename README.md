@@ -52,7 +52,8 @@
 <br/>
 
 <div align="center">
- 
+   <img src="https://streak-stats.demolab.com/?user=denethSaputhanthri&theme=github-dark&hide_border=true" alt="GitHub Streak" height="180" />
+
 </div>
 
 
