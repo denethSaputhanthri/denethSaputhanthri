@@ -33,11 +33,6 @@
 
   <h3>Backend Development</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi,mysql,mongodb,postgres,redis&theme=dark&perline=10" alt="Backend Skills" />
-
-  <h3>DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,nginx,postman,figma,vscode,idea&theme=dark&perline=10" alt="DevOps Skills" />
-</div>
-
 <br/>
 
 <div align="center">
